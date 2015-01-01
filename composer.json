@@ -1,5 +1,5 @@
 {
-    "name" : "roots/roots",
+    "name" : "rankhammer/roots",
     "description" : "Starter Wordpress Theme",
     "type" : "wordpress-theme",
     "keywords" : [ "wordpress" ],
@@ -21,7 +21,7 @@
         "php": ">=5.4"
     },
     "extra" : {
-        "installer-name" : "roots/roots"
+        "installer-name" : "rankhammer/roots"
     },
     "homepage" : "http://roots.io",
     "support": {
