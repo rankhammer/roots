@@ -20,9 +20,6 @@
 		"composer/installers": "v1.0.12",
         "php": ">=5.4"
     },
-    "extra" : {
-        "installer-name" : "rankhammer/roots"
-    },
     "homepage" : "http://roots.io",
     "support": {
         "issues": "https://github.com/roots/bedrock/issues",
