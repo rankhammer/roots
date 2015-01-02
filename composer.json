@@ -1,5 +1,5 @@
 {
-    "name" : "roots",
+    "name" : "rankhammer/roots",
     "description" : "Starter Wordpress Theme",
     "type" : "wordpress-theme",
     "keywords" : [ "wordpress" ],
@@ -17,6 +17,7 @@
 		}
 	],
     "require" : {
+		"composer/installers": "v1.0.12",
         "php": ">=5.4"
     },
     "extra" : {
